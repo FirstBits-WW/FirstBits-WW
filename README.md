@@ -2,7 +2,7 @@
 Greetings! My name is William Wallace! ヾ(•ω•`)o<br><br>I am a Computer Engineering student!   o(*≧▽≦)ツ⌨️🖥️<br><br>I really like videogames and discover/talk about new technologies! <br><br>( •̀ ω •́ )y
 
 
-## ✉️ Mail me!:
+## ✉️ Mail me!
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williamsnogueira@edu.unifor.br) 
 
 # 💻 Tech Stack:
