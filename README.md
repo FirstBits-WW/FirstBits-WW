@@ -2,7 +2,7 @@
 Greetings! My name is William Wallace! ヾ(•ω•`)o<br><br>
 I am a Computer Engineering student!   o(*≧▽≦)ツ⌨️🖥️<br><br>
 I really like videogames and discover/talk about new technologies! <br><br>
-My favorite one is LoL!¨
+My favorite one is LoL!¨<br>
 [![Lol](https://img.shields.io/badge/LeagueOfLengeds-UnknownLotus-purple?style=for-the-badge&logo=League%20of%20Legends&logoColor=white)](https://op.gg/lol/summoners/BR/UnknownLotus-SUS)
 
 ( •̀ ω •́ )y
