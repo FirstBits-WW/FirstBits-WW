@@ -1,7 +1,7 @@
 # 💫 About Me:
-[Greetings! My name is William Wallace! ヾ(•ω•`)o<br>
-I am a Computer Engineering student!   o(*≧▽≦)ツ⌨️🖥️<br>
-I really like videogames and discover/talk about new technologies! <br>]
+Greetings! My name is William Wallace! ヾ(•ω•`)o<br><br>
+I am a Computer Engineering student!   o(*≧▽≦)ツ⌨️🖥️<br><br>
+I really like videogames and discover/talk about new technologies! <br><br>
 ( •̀ ω •́ )y
 
 
