@@ -1,18 +1,27 @@
-<h1>💫 About Me:</h1>
-
-<p>Greetings! My name is William Wallace! ヾ(•ω•`)o</p>
-<p>I am a Computer Engineering student! o(*≧▽≦)ツ⌨️🖥️</p>
-<p>I really like videogames and discover/talk about new technologies!</p>
-<p>My favorite one is LoL!¨</p>
-
-<a href="https://op.gg/lol/summoners/BR/UnknownLotus-SUS" target="_blank">
-  <img src="https://img.shields.io/badge/LeagueOfLengeds-UnknownLotus-purple?style=for-the-badge&logo=League%20of%20Legends&logoColor=white" alt="LoL Profile">
-</a>
-
-<p><br>( •̀ ω •́ )y</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h1>💫 About Me:</h1>
+      <p>Greetings! My name is William Wallace! ヾ(•ω•`)o</p>
+      <p>I am a Computer Engineering student! o(*≧▽≦)ツ⌨️🖥️</p>
+      <p>I really like videogames and discover/talk about new technologies!</p>
+      <p>My favorite one is LoL!¨</p>
+      <a href="https://op.gg/lol/summoners/BR/UnknownLotus-SUS" target="_blank">
+        <img src="https://img.shields.io/badge/LeagueOfLengeds-UnknownLotus-purple?style=for-the-badge&logo=League%20of%20Legends&logoColor=white" alt="LoL Profile">
+      </a>
+      <p>( •̀ ω •́ )y</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://trackdiff.com/overlay/UnknownLotus/SUS?display=rank&bgOpacity=20" target="_blank">
+        <img src="https://image.thum.io/get/width/400/crop/800/https://trackdiff.com/overlay/UnknownLotus/SUS?display=rank&bgOpacity=20" alt="Meu Rank ao Vivo" width="100%">
+      </a>
+      <br>
+      <p><i>Click to view live rank!</i> 🎮</p>
+    </td>
+  </tr>
+</table>
 
 <hr>
-
 <h2>Tech Stack:</h2>
 
 <h3>Languages:</h3>
